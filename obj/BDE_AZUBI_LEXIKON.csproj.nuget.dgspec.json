@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TrainingGIT\\BDE_AZUBI_LEXIKON\\BDE_AZUBI_LEXIKON.csproj": {}
+    "C:\\TrainingGIT\\BDE_Azubi_Lexikon\\BDE_AZUBI_LEXIKON.csproj": {}
   },
   "projects": {
-    "C:\\TrainingGIT\\BDE_AZUBI_LEXIKON\\BDE_AZUBI_LEXIKON.csproj": {
+    "C:\\TrainingGIT\\BDE_Azubi_Lexikon\\BDE_AZUBI_LEXIKON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TrainingGIT\\BDE_AZUBI_LEXIKON\\BDE_AZUBI_LEXIKON.csproj",
+        "projectUniqueName": "C:\\TrainingGIT\\BDE_Azubi_Lexikon\\BDE_AZUBI_LEXIKON.csproj",
         "projectName": "BDE_AZUBI_LEXIKON",
-        "projectPath": "C:\\TrainingGIT\\BDE_AZUBI_LEXIKON\\BDE_AZUBI_LEXIKON.csproj",
+        "projectPath": "C:\\TrainingGIT\\BDE_Azubi_Lexikon\\BDE_AZUBI_LEXIKON.csproj",
         "packagesPath": "C:\\Users\\M.Witzik\\.nuget\\packages\\",
-        "outputPath": "C:\\TrainingGIT\\BDE_AZUBI_LEXIKON\\obj\\",
+        "outputPath": "C:\\TrainingGIT\\BDE_Azubi_Lexikon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
